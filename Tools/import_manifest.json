@@ -1,0 +1,2702 @@
+[
+ {
+  "asset": "bld_dk_dome_reactor",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_00.png"
+ },
+ {
+  "asset": "bld_dk_tube_red",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_01.png"
+ },
+ {
+  "asset": "bld_dk_conversion_rig",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_02.png"
+ },
+ {
+  "asset": "bld_dk_spire_orb",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_03.png"
+ },
+ {
+  "asset": "bld_dk_fort_skullgate",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_04.png"
+ },
+ {
+  "asset": "bld_dk_holo_dino",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_05.png"
+ },
+ {
+  "asset": "bld_dk_furnace",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_06.png"
+ },
+ {
+  "asset": "bld_dk_crane_pit",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_07.png"
+ },
+ {
+  "asset": "bld_dk_shrine_horned",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_08.png"
+ },
+ {
+  "asset": "bld_dk_arch_raptor",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_09.png"
+ },
+ {
+  "asset": "bld_dk_hub_purple",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_10.png"
+ },
+ {
+  "asset": "bld_dk_gate_specimen",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_11.png"
+ },
+ {
+  "asset": "bld_dk_vat_embryo",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_12.png"
+ },
+ {
+  "asset": "bld_dk_lab_twintank",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_13.png"
+ },
+ {
+  "asset": "bld_dk_pad_launch",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_14.png"
+ },
+ {
+  "asset": "bld_dk_cage_meshdome",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_15.png"
+ },
+ {
+  "asset": "bld_dk_tanks_redcapsule",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_16.png"
+ },
+ {
+  "asset": "bld_dk_platform_trex",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_17.png"
+ },
+ {
+  "asset": "bld_dk_dome_spiked",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_18.png"
+ },
+ {
+  "asset": "bld_dk_siphon_crystal",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_19.png"
+ },
+ {
+  "asset": "bld_dk_bay_armordino",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_20.png"
+ },
+ {
+  "asset": "bld_dk_vat_redcyl",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_21.png"
+ },
+ {
+  "asset": "bld_dk_lab_tritank",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_22.png"
+ },
+ {
+  "asset": "bld_dk_turret_cannon",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_23.png"
+ },
+ {
+  "asset": "bld_dk_lab_chem",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_24.png"
+ },
+ {
+  "asset": "bld_dk_rig_skeleton",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_25.png"
+ },
+ {
+  "asset": "bld_dk_cathedral",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_26.png"
+ },
+ {
+  "asset": "bld_dk_pad_hookcrane",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_27.png"
+ },
+ {
+  "asset": "bld_dk_tower_bluecapsule",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_28.png"
+ },
+ {
+  "asset": "bld_dk_dish_comm",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_29.png"
+ },
+ {
+  "asset": "bld_dk_gate_vault",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_30.png"
+ },
+ {
+  "asset": "bld_dk_lab_purpledome",
+  "src": "SourceArt/sprites/bld_dark_a/bld_dark_a_31.png"
+ },
+ {
+  "asset": "bld_dk_fort_banner",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_00.png"
+ },
+ {
+  "asset": "bld_dk_cage_barrel",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_01.png"
+ },
+ {
+  "asset": "bld_dk_crane_gallows",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_02.png"
+ },
+ {
+  "asset": "bld_dk_furnace_bell",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_03.png"
+ },
+ {
+  "asset": "bld_dk_tower_round",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_04.png"
+ },
+ {
+  "asset": "bld_dk_pen_electro",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_05.png"
+ },
+ {
+  "asset": "bld_dk_boiler_orb",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_06.png"
+ },
+ {
+  "asset": "bld_dk_pool_spike",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_07.png"
+ },
+ {
+  "asset": "bld_dk_pen_cage",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_08.png"
+ },
+ {
+  "asset": "bld_dk_crane_claw",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_09.png"
+ },
+ {
+  "asset": "bld_dk_cage_tube",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_10.png"
+ },
+ {
+  "asset": "bld_dk_arena_ring",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_11.png"
+ },
+ {
+  "asset": "bld_dk_mill_gear",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_12.png"
+ },
+ {
+  "asset": "bld_dk_tent_circus",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_13.png"
+ },
+ {
+  "asset": "bld_dk_vats_acid",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_14.png"
+ },
+ {
+  "asset": "bld_dk_shrine_bull",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_15.png"
+ },
+ {
+  "asset": "bld_dk_rack_butcher",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_16.png"
+ },
+ {
+  "asset": "bld_dk_crane_magnet",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_17.png"
+ },
+ {
+  "asset": "bld_dk_factory_pipe",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_18.png"
+ },
+ {
+  "asset": "bld_dk_arena_grey",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_19.png"
+ },
+ {
+  "asset": "bld_dk_vat_orb",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_20.png"
+ },
+ {
+  "asset": "bld_dk_smokehouse",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_21.png"
+ },
+ {
+  "asset": "bld_dk_barn_dome",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_22.png"
+ },
+ {
+  "asset": "bld_dk_pen_purple",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_23.png"
+ },
+ {
+  "asset": "bld_dk_depot_cart",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_24.png"
+ },
+ {
+  "asset": "bld_dk_tower_skull",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_25.png"
+ },
+ {
+  "asset": "bld_dk_boiler_moss",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_26.png"
+ },
+ {
+  "asset": "bld_dk_fort_medic",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_27.png"
+ },
+ {
+  "asset": "bld_dk_spire_tesla",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_28.png"
+ },
+ {
+  "asset": "bld_dk_tower_dish",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_29.png"
+ },
+ {
+  "asset": "bld_dk_gate_great",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_30.png"
+ },
+ {
+  "asset": "bld_dk_rig_crystal",
+  "src": "SourceArt/sprites/bld_dark_b/bld_dark_b_31.png"
+ },
+ {
+  "asset": "bld_hut_bonehide",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_00.png"
+ },
+ {
+  "asset": "bld_hut_tent",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_01.png"
+ },
+ {
+  "asset": "bld_hut_thatch",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_02.png"
+ },
+ {
+  "asset": "bld_hut_bonedome",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_03.png"
+ },
+ {
+  "asset": "bld_skull_workbench",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_04.png"
+ },
+ {
+  "asset": "bld_hut_hearth",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_05.png"
+ },
+ {
+  "asset": "bld_gate_bone",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_06.png"
+ },
+ {
+  "asset": "bld_roundhouse_rib",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_07.png"
+ },
+ {
+  "asset": "bld_kiln_smoke",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_08.png"
+ },
+ {
+  "asset": "bld_meat_rack",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_09.png"
+ },
+ {
+  "asset": "bld_fire_pit",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_10.png"
+ },
+ {
+  "asset": "bld_pit_mine",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_11.png"
+ },
+ {
+  "asset": "bld_fence_spike",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_12.png"
+ },
+ {
+  "asset": "bld_forge_bone",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_13.png"
+ },
+ {
+  "asset": "bld_watchtower_stone",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_15.png"
+ },
+ {
+  "asset": "bld_hut_mound",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_16.png"
+ },
+ {
+  "asset": "bld_leanto_leaf",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_17.png"
+ },
+ {
+  "asset": "bld_teepee_thatch",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_18.png"
+ },
+ {
+  "asset": "bld_pond_basin",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_19.png"
+ },
+ {
+  "asset": "bld_stockpile_rock",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_20.png"
+ },
+ {
+  "asset": "bld_planter_bed",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_21.png"
+ },
+ {
+  "asset": "bld_trap_spike",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_22.png"
+ },
+ {
+  "asset": "bld_mill_grind",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_23.png"
+ },
+ {
+  "asset": "bld_cauldron_stone",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_24.png"
+ },
+ {
+  "asset": "bld_rack_hide",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_25.png"
+ },
+ {
+  "asset": "bld_nest_pen",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_26.png"
+ },
+ {
+  "asset": "bld_mill_woodgear",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_27.png"
+ },
+ {
+  "asset": "bld_fort_palisade",
+  "src": "SourceArt/sprites/bld_t1/bld_t1_28.png"
+ },
+ {
+  "asset": "bld_press_hammer",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_00.png"
+ },
+ {
+  "asset": "bld_furnace_blast",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_01.png"
+ },
+ {
+  "asset": "bld_crane_drill",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_02.png"
+ },
+ {
+  "asset": "bld_derrick_crane",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_03.png"
+ },
+ {
+  "asset": "bld_factory_skull",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_04.png"
+ },
+ {
+  "asset": "bld_boiler_stack",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_05.png"
+ },
+ {
+  "asset": "bld_workshop_gear",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_06.png"
+ },
+ {
+  "asset": "bld_refinery_pipe",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_07.png"
+ },
+ {
+  "asset": "bld_forge_round",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_08.png"
+ },
+ {
+  "asset": "bld_mine_scaffold",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_09.png"
+ },
+ {
+  "asset": "bld_pump_house",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_10.png"
+ },
+ {
+  "asset": "bld_lab_reddome",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_11.png"
+ },
+ {
+  "asset": "bld_tesla_station",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_12.png"
+ },
+ {
+  "asset": "bld_hut_greendome",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_13.png"
+ },
+ {
+  "asset": "bld_greenhouse_glass",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_14.png"
+ },
+ {
+  "asset": "bld_forge_spire",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_15.png"
+ },
+ {
+  "asset": "bld_factory_mun",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_16.png"
+ },
+ {
+  "asset": "bld_chem_tanks",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_17.png"
+ },
+ {
+  "asset": "bld_refinery_teal",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_18.png"
+ },
+ {
+  "asset": "bld_platform_redring",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_19.png"
+ },
+ {
+  "asset": "bld_tower_watch2",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_20.png"
+ },
+ {
+  "asset": "bld_kiln_statue",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_22.png"
+ },
+ {
+  "asset": "bld_lab_redrocket",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_23.png"
+ },
+ {
+  "asset": "bld_observatory_round",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_24.png"
+ },
+ {
+  "asset": "bld_assembler_crane",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_25.png"
+ },
+ {
+  "asset": "bld_depot_cargo",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_26.png"
+ },
+ {
+  "asset": "bld_radar_station",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_27.png"
+ },
+ {
+  "asset": "bld_pad_hex",
+  "src": "SourceArt/sprites/bld_t2/bld_t2_28.png"
+ },
+ {
+  "asset": "bld_hq_cyber",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_00.png"
+ },
+ {
+  "asset": "bld_tower_generator",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_01.png"
+ },
+ {
+  "asset": "bld_lab_glassdome",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_02.png"
+ },
+ {
+  "asset": "bld_assembler_servo",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_03.png"
+ },
+ {
+  "asset": "bld_bay_holoconsole",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_04.png"
+ },
+ {
+  "asset": "bld_spire_data",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_05.png"
+ },
+ {
+  "asset": "bld_dish_uplink",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_06.png"
+ },
+ {
+  "asset": "bld_pad_round",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_07.png"
+ },
+ {
+  "asset": "bld_vats_green",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_08.png"
+ },
+ {
+  "asset": "bld_complex_spire",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_09.png"
+ },
+ {
+  "asset": "bld_turret_cannon3",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_10.png"
+ },
+ {
+  "asset": "bld_bunker_ramp",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_11.png"
+ },
+ {
+  "asset": "bld_ring_green",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_12.png"
+ },
+ {
+  "asset": "bld_rack_capsules",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_13.png"
+ },
+ {
+  "asset": "bld_arm_robot3",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_14.png"
+ },
+ {
+  "asset": "bld_lab_dome2",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_16.png"
+ },
+ {
+  "asset": "bld_frame_mech",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_17.png"
+ },
+ {
+  "asset": "bld_pad_holo",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_18.png"
+ },
+ {
+  "asset": "bld_tower_cyl",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_19.png"
+ },
+ {
+  "asset": "bld_turret_twin3",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_20.png"
+ },
+ {
+  "asset": "bld_pedestal_dino",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_21.png"
+ },
+ {
+  "asset": "bld_gate_portal",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_22.png"
+ },
+ {
+  "asset": "bld_pad_road",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_23.png"
+ },
+ {
+  "asset": "bld_mech_robot3",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_24.png"
+ },
+ {
+  "asset": "bld_reactor_capsule",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_25.png"
+ },
+ {
+  "asset": "bld_dome_stack",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_26.png"
+ },
+ {
+  "asset": "bld_fortress_round",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_27.png"
+ },
+ {
+  "asset": "bld_silo_rocket3",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_28.png"
+ },
+ {
+  "asset": "bld_ring_accelerator",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_29.png"
+ },
+ {
+  "asset": "bld_antenna_spindle",
+  "src": "SourceArt/sprites/bld_t3/bld_t3_30.png"
+ },
+ {
+  "asset": "bld_hq_synthetic",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_00.png"
+ },
+ {
+  "asset": "bld_tower_block4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_01.png"
+ },
+ {
+  "asset": "bld_dome_orb",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_02.png"
+ },
+ {
+  "asset": "bld_platform_gun4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_03.png"
+ },
+ {
+  "asset": "bld_tower_capsule",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_04.png"
+ },
+ {
+  "asset": "bld_ring_large4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_05.png"
+ },
+ {
+  "asset": "bld_spire_triple",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_06.png"
+ },
+ {
+  "asset": "bld_block_solar",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_07.png"
+ },
+ {
+  "asset": "bld_cube_module",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_08.png"
+ },
+ {
+  "asset": "bld_cabinet_server",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_09.png"
+ },
+ {
+  "asset": "bld_ring_gold",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_10.png"
+ },
+ {
+  "asset": "bld_spire_crystal",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_11.png"
+ },
+ {
+  "asset": "bld_complex_multispire",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_12.png"
+ },
+ {
+  "asset": "bld_dish_deep",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_13.png"
+ },
+ {
+  "asset": "bld_towers_twin",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_14.png"
+ },
+ {
+  "asset": "bld_platform_crane4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_16.png"
+ },
+ {
+  "asset": "bld_tower_cyl4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_17.png"
+ },
+ {
+  "asset": "bld_blocks_modular",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_18.png"
+ },
+ {
+  "asset": "bld_spire_tall4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_19.png"
+ },
+ {
+  "asset": "bld_core_bluering",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_20.png"
+ },
+ {
+  "asset": "bld_turret_heavy4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_21.png"
+ },
+ {
+  "asset": "bld_bunker_4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_22.png"
+ },
+ {
+  "asset": "bld_tower_guard4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_23.png"
+ },
+ {
+  "asset": "bld_pad_runway",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_24.png"
+ },
+ {
+  "asset": "bld_mech_4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_25.png"
+ },
+ {
+  "asset": "bld_fortress_block",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_26.png"
+ },
+ {
+  "asset": "bld_tower_orb4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_27.png"
+ },
+ {
+  "asset": "bld_hq_cathedral",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_28.png"
+ },
+ {
+  "asset": "bld_silo_missile4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_29.png"
+ },
+ {
+  "asset": "bld_pad_ring4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_30.png"
+ },
+ {
+  "asset": "bld_tower_antenna4",
+  "src": "SourceArt/sprites/bld_t4/bld_t4_31.png"
+ },
+ {
+  "asset": "bld_tr_hall_thatch",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_00.png"
+ },
+ {
+  "asset": "bld_tr_wheel_dino",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_01.png"
+ },
+ {
+  "asset": "bld_tr_frame_harness",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_02.png"
+ },
+ {
+  "asset": "bld_tr_crane_sauro",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_03.png"
+ },
+ {
+  "asset": "bld_tr_shed_plow",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_04.png"
+ },
+ {
+  "asset": "bld_tr_kiln_fang",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_05.png"
+ },
+ {
+  "asset": "bld_tr_nest_hatchery",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_06.png"
+ },
+ {
+  "asset": "bld_tr_gate_totem",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_07.png"
+ },
+ {
+  "asset": "bld_tr_paddock_wood",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_08.png"
+ },
+ {
+  "asset": "bld_tr_pen_round",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_09.png"
+ },
+ {
+  "asset": "bld_tr_mill_bonesaw",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_10.png"
+ },
+ {
+  "asset": "bld_tr_cart_dino",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_11.png"
+ },
+ {
+  "asset": "bld_tr_forge_canopy",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_12.png"
+ },
+ {
+  "asset": "bld_tr_kiln_lava",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_13.png"
+ },
+ {
+  "asset": "bld_tr_kiln_stone",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_14.png"
+ },
+ {
+  "asset": "bld_tr_rack_drying",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_15.png"
+ },
+ {
+  "asset": "bld_tr_ramp_log",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_16.png"
+ },
+ {
+  "asset": "bld_tr_tent_spikedome",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_17.png"
+ },
+ {
+  "asset": "bld_tr_pen_rock",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_18.png"
+ },
+ {
+  "asset": "bld_tr_crane_well",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_19.png"
+ },
+ {
+  "asset": "bld_tr_pump_dino",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_20.png"
+ },
+ {
+  "asset": "bld_tr_vat_mash",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_21.png"
+ },
+ {
+  "asset": "bld_tr_tower_water",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_22.png"
+ },
+ {
+  "asset": "bld_tr_wheel_grind",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_23.png"
+ },
+ {
+  "asset": "bld_tr_totem_crystal",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_24.png"
+ },
+ {
+  "asset": "bld_tr_pit_tar",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_25.png"
+ },
+ {
+  "asset": "bld_tr_hut_fishsmoke",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_26.png"
+ },
+ {
+  "asset": "bld_tr_hut_mud",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_27.png"
+ },
+ {
+  "asset": "bld_tr_forge_hammer",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_28.png"
+ },
+ {
+  "asset": "bld_tr_gate_spikewall",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_29.png"
+ },
+ {
+  "asset": "bld_tr_gate_sluice",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_30.png"
+ },
+ {
+  "asset": "bld_tr_tower_drum",
+  "src": "SourceArt/sprites/bld_tribal/bld_tribal_31.png"
+ },
+ {
+  "asset": "dino_cy_raptor",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_00.png"
+ },
+ {
+  "asset": "dino_cy_spino",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_01.png"
+ },
+ {
+  "asset": "dino_cy_trice",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_02.png"
+ },
+ {
+  "asset": "dino_cy_ptera",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_03.png"
+ },
+ {
+  "asset": "dino_cy_stego",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_04.png"
+ },
+ {
+  "asset": "dino_cy_brachio",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_05.png"
+ },
+ {
+  "asset": "dino_cy_raptor_purple",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_06.png"
+ },
+ {
+  "asset": "dino_cy_trex",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_07.png"
+ },
+ {
+  "asset": "dino_cy_spino_sail",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_08.png"
+ },
+ {
+  "asset": "dino_cy_anky_mace",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_09.png"
+ },
+ {
+  "asset": "dino_cy_galli",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_10.png"
+ },
+ {
+  "asset": "dino_cy_trice_rhino",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_11.png"
+ },
+ {
+  "asset": "dino_cy_raptor_gatling",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_12.png"
+ },
+ {
+  "asset": "dino_cy_para_jets",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_13.png"
+ },
+ {
+  "asset": "dino_cy_anky_cannon",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_14.png"
+ },
+ {
+  "asset": "dino_cy_tanystro",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_15.png"
+ },
+ {
+  "asset": "dino_cy_trice_heavy",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_16.png"
+ },
+ {
+  "asset": "dino_cy_ptera_war",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_17.png"
+ },
+ {
+  "asset": "dino_cy_raptor_blue",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_18.png"
+ },
+ {
+  "asset": "dino_cy_trex_red",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_19.png"
+ },
+ {
+  "asset": "dino_cy_stego_crystal",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_20.png"
+ },
+ {
+  "asset": "dino_cy_raptor_orange",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_21.png"
+ },
+ {
+  "asset": "dino_cy_trice_missile",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_22.png"
+ },
+ {
+  "asset": "dino_cy_galli_pack",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_23.png"
+ },
+ {
+  "asset": "dino_cy_anky_wreck",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_24.png"
+ },
+ {
+  "asset": "dino_cy_spino_saw",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_25.png"
+ },
+ {
+  "asset": "dino_cy_anky_drill",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_26.png"
+ },
+ {
+  "asset": "dino_cy_brachio_radar",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_27.png"
+ },
+ {
+  "asset": "dino_cy_trice_hauler",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_28_p0.png"
+ },
+ {
+  "asset": "dino_cy_ptera_rotor",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_28_p1.png"
+ },
+ {
+  "asset": "dino_cy_spino_red",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_29.png"
+ },
+ {
+  "asset": "dino_cy_brachio_tank",
+  "src": "SourceArt/sprites/dino_cyber/dino_cyber_30.png"
+ },
+ {
+  "asset": "dino_wd_dryo",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_00.png"
+ },
+ {
+  "asset": "dino_wd_raptor_green",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_01.png"
+ },
+ {
+  "asset": "dino_wd_spino",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_02.png"
+ },
+ {
+  "asset": "dino_wd_trice",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_03.png"
+ },
+ {
+  "asset": "dino_wd_raptor_purple",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_04.png"
+ },
+ {
+  "asset": "dino_wd_anky",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_05.png"
+ },
+ {
+  "asset": "dino_wd_stego",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_06.png"
+ },
+ {
+  "asset": "dino_wd_brachio",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_07.png"
+ },
+ {
+  "asset": "dino_wd_para",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_08.png"
+ },
+ {
+  "asset": "dino_wd_smilodon",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_09.png"
+ },
+ {
+  "asset": "dino_wd_ptera",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_10.png"
+ },
+ {
+  "asset": "dino_wd_raptor_crest",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_11.png"
+ },
+ {
+  "asset": "dino_wd_trex",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_12.png"
+ },
+ {
+  "asset": "dino_wd_trice_purple",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_13.png"
+ },
+ {
+  "asset": "dino_wd_dimetro",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_14.png"
+ },
+ {
+  "asset": "dino_wd_raptor_teal",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_15.png"
+ },
+ {
+  "asset": "dino_wd_kentro",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_16.png"
+ },
+ {
+  "asset": "dino_wd_galli",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_17.png"
+ },
+ {
+  "asset": "dino_wd_turtle",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_18.png"
+ },
+ {
+  "asset": "dino_wd_dilo",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_19.png"
+ },
+ {
+  "asset": "dino_wd_sauropelta",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_20.png"
+ },
+ {
+  "asset": "dino_wd_thief_basket",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_21.png"
+ },
+ {
+  "asset": "dino_wd_trice_war",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_22.png"
+ },
+ {
+  "asset": "dino_wd_ptera_red",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_23.png"
+ },
+ {
+  "asset": "dino_wd_raptor_blue",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_24.png"
+ },
+ {
+  "asset": "dino_wd_pachy_pink",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_25.png"
+ },
+ {
+  "asset": "dino_wd_anky_grey",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_26.png"
+ },
+ {
+  "asset": "dino_wd_para_yellow",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_27.png"
+ },
+ {
+  "asset": "dino_wd_trice_brown",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_28.png"
+ },
+ {
+  "asset": "dino_wd_tany",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_29.png"
+ },
+ {
+  "asset": "dino_wd_scelido",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_30.png"
+ },
+ {
+  "asset": "dino_wd_toad_armored",
+  "src": "SourceArt/sprites/dino_wild/dino_wild_31.png"
+ },
+ {
+  "asset": "env_ground_00",
+  "src": "SourceArt/sprites/env_ground/env_ground_00.png"
+ },
+ {
+  "asset": "env_ground_01",
+  "src": "SourceArt/sprites/env_ground/env_ground_01.png"
+ },
+ {
+  "asset": "env_ground_02",
+  "src": "SourceArt/sprites/env_ground/env_ground_02.png"
+ },
+ {
+  "asset": "env_ground_03",
+  "src": "SourceArt/sprites/env_ground/env_ground_03.png"
+ },
+ {
+  "asset": "env_ground_04",
+  "src": "SourceArt/sprites/env_ground/env_ground_04.png"
+ },
+ {
+  "asset": "env_ground_05",
+  "src": "SourceArt/sprites/env_ground/env_ground_05.png"
+ },
+ {
+  "asset": "env_ground_06",
+  "src": "SourceArt/sprites/env_ground/env_ground_06.png"
+ },
+ {
+  "asset": "env_ground_07",
+  "src": "SourceArt/sprites/env_ground/env_ground_07.png"
+ },
+ {
+  "asset": "env_ground_08",
+  "src": "SourceArt/sprites/env_ground/env_ground_08.png"
+ },
+ {
+  "asset": "env_ground_09",
+  "src": "SourceArt/sprites/env_ground/env_ground_09.png"
+ },
+ {
+  "asset": "env_ground_10",
+  "src": "SourceArt/sprites/env_ground/env_ground_10.png"
+ },
+ {
+  "asset": "env_ground_11",
+  "src": "SourceArt/sprites/env_ground/env_ground_11.png"
+ },
+ {
+  "asset": "env_ground_12",
+  "src": "SourceArt/sprites/env_ground/env_ground_12.png"
+ },
+ {
+  "asset": "env_ground_13",
+  "src": "SourceArt/sprites/env_ground/env_ground_13.png"
+ },
+ {
+  "asset": "env_ground_14",
+  "src": "SourceArt/sprites/env_ground/env_ground_14.png"
+ },
+ {
+  "asset": "env_ground_15",
+  "src": "SourceArt/sprites/env_ground/env_ground_15.png"
+ },
+ {
+  "asset": "env_ground_16",
+  "src": "SourceArt/sprites/env_ground/env_ground_16.png"
+ },
+ {
+  "asset": "env_ground_17",
+  "src": "SourceArt/sprites/env_ground/env_ground_17.png"
+ },
+ {
+  "asset": "env_ground_18",
+  "src": "SourceArt/sprites/env_ground/env_ground_18.png"
+ },
+ {
+  "asset": "env_ground_19",
+  "src": "SourceArt/sprites/env_ground/env_ground_19.png"
+ },
+ {
+  "asset": "env_ground_20",
+  "src": "SourceArt/sprites/env_ground/env_ground_20.png"
+ },
+ {
+  "asset": "env_ground_21",
+  "src": "SourceArt/sprites/env_ground/env_ground_21.png"
+ },
+ {
+  "asset": "env_ground_22",
+  "src": "SourceArt/sprites/env_ground/env_ground_22.png"
+ },
+ {
+  "asset": "env_ground_23",
+  "src": "SourceArt/sprites/env_ground/env_ground_23.png"
+ },
+ {
+  "asset": "env_ground_24",
+  "src": "SourceArt/sprites/env_ground/env_ground_24.png"
+ },
+ {
+  "asset": "env_ground_25",
+  "src": "SourceArt/sprites/env_ground/env_ground_25.png"
+ },
+ {
+  "asset": "env_ground_26",
+  "src": "SourceArt/sprites/env_ground/env_ground_26.png"
+ },
+ {
+  "asset": "env_ground_27",
+  "src": "SourceArt/sprites/env_ground/env_ground_27.png"
+ },
+ {
+  "asset": "env_ground_28",
+  "src": "SourceArt/sprites/env_ground/env_ground_28.png"
+ },
+ {
+  "asset": "env_ground_29",
+  "src": "SourceArt/sprites/env_ground/env_ground_29.png"
+ },
+ {
+  "asset": "env_ground_30",
+  "src": "SourceArt/sprites/env_ground/env_ground_30.png"
+ },
+ {
+  "asset": "env_ground_31",
+  "src": "SourceArt/sprites/env_ground/env_ground_31.png"
+ },
+ {
+  "asset": "env_ground_32",
+  "src": "SourceArt/sprites/env_ground/env_ground_32.png"
+ },
+ {
+  "asset": "env_ground_33",
+  "src": "SourceArt/sprites/env_ground/env_ground_33.png"
+ },
+ {
+  "asset": "env_ground_34",
+  "src": "SourceArt/sprites/env_ground/env_ground_34.png"
+ },
+ {
+  "asset": "env_ground_35",
+  "src": "SourceArt/sprites/env_ground/env_ground_35.png"
+ },
+ {
+  "asset": "env_ground_36",
+  "src": "SourceArt/sprites/env_ground/env_ground_36.png"
+ },
+ {
+  "asset": "env_ground_37",
+  "src": "SourceArt/sprites/env_ground/env_ground_37.png"
+ },
+ {
+  "asset": "env_ground_38",
+  "src": "SourceArt/sprites/env_ground/env_ground_38.png"
+ },
+ {
+  "asset": "env_ground_39",
+  "src": "SourceArt/sprites/env_ground/env_ground_39.png"
+ },
+ {
+  "asset": "env_ore_00",
+  "src": "SourceArt/sprites/env_ores/env_ores_00.png"
+ },
+ {
+  "asset": "env_ore_01",
+  "src": "SourceArt/sprites/env_ores/env_ores_01.png"
+ },
+ {
+  "asset": "env_ore_02",
+  "src": "SourceArt/sprites/env_ores/env_ores_02.png"
+ },
+ {
+  "asset": "env_ore_03",
+  "src": "SourceArt/sprites/env_ores/env_ores_03.png"
+ },
+ {
+  "asset": "env_ore_04",
+  "src": "SourceArt/sprites/env_ores/env_ores_04.png"
+ },
+ {
+  "asset": "env_ore_05",
+  "src": "SourceArt/sprites/env_ores/env_ores_05.png"
+ },
+ {
+  "asset": "env_ore_06",
+  "src": "SourceArt/sprites/env_ores/env_ores_06.png"
+ },
+ {
+  "asset": "env_ore_07",
+  "src": "SourceArt/sprites/env_ores/env_ores_07.png"
+ },
+ {
+  "asset": "env_ore_08",
+  "src": "SourceArt/sprites/env_ores/env_ores_08.png"
+ },
+ {
+  "asset": "env_ore_09",
+  "src": "SourceArt/sprites/env_ores/env_ores_09.png"
+ },
+ {
+  "asset": "env_ore_10",
+  "src": "SourceArt/sprites/env_ores/env_ores_10.png"
+ },
+ {
+  "asset": "env_ore_11",
+  "src": "SourceArt/sprites/env_ores/env_ores_11.png"
+ },
+ {
+  "asset": "env_ore_12",
+  "src": "SourceArt/sprites/env_ores/env_ores_12.png"
+ },
+ {
+  "asset": "env_ore_13",
+  "src": "SourceArt/sprites/env_ores/env_ores_13.png"
+ },
+ {
+  "asset": "env_ore_14",
+  "src": "SourceArt/sprites/env_ores/env_ores_14.png"
+ },
+ {
+  "asset": "env_ore_15",
+  "src": "SourceArt/sprites/env_ores/env_ores_15.png"
+ },
+ {
+  "asset": "env_ore_16",
+  "src": "SourceArt/sprites/env_ores/env_ores_16.png"
+ },
+ {
+  "asset": "env_ore_17",
+  "src": "SourceArt/sprites/env_ores/env_ores_17.png"
+ },
+ {
+  "asset": "env_ore_18",
+  "src": "SourceArt/sprites/env_ores/env_ores_18.png"
+ },
+ {
+  "asset": "env_ore_19",
+  "src": "SourceArt/sprites/env_ores/env_ores_19.png"
+ },
+ {
+  "asset": "env_ore_20",
+  "src": "SourceArt/sprites/env_ores/env_ores_20.png"
+ },
+ {
+  "asset": "env_ore_21",
+  "src": "SourceArt/sprites/env_ores/env_ores_21.png"
+ },
+ {
+  "asset": "env_ore_22",
+  "src": "SourceArt/sprites/env_ores/env_ores_22.png"
+ },
+ {
+  "asset": "env_ore_23",
+  "src": "SourceArt/sprites/env_ores/env_ores_23.png"
+ },
+ {
+  "asset": "env_ore_24",
+  "src": "SourceArt/sprites/env_ores/env_ores_24.png"
+ },
+ {
+  "asset": "env_ore_25",
+  "src": "SourceArt/sprites/env_ores/env_ores_25.png"
+ },
+ {
+  "asset": "env_ore_26",
+  "src": "SourceArt/sprites/env_ores/env_ores_26.png"
+ },
+ {
+  "asset": "env_ore_27",
+  "src": "SourceArt/sprites/env_ores/env_ores_27.png"
+ },
+ {
+  "asset": "env_ore_28",
+  "src": "SourceArt/sprites/env_ores/env_ores_28.png"
+ },
+ {
+  "asset": "env_ore_29",
+  "src": "SourceArt/sprites/env_ores/env_ores_29.png"
+ },
+ {
+  "asset": "env_ore_30",
+  "src": "SourceArt/sprites/env_ores/env_ores_30.png"
+ },
+ {
+  "asset": "env_ore_31",
+  "src": "SourceArt/sprites/env_ores/env_ores_31.png"
+ },
+ {
+  "asset": "env_ore_32",
+  "src": "SourceArt/sprites/env_ores/env_ores_32.png"
+ },
+ {
+  "asset": "env_ore_33",
+  "src": "SourceArt/sprites/env_ores/env_ores_33.png"
+ },
+ {
+  "asset": "env_ore_34",
+  "src": "SourceArt/sprites/env_ores/env_ores_34.png"
+ },
+ {
+  "asset": "env_ore_35",
+  "src": "SourceArt/sprites/env_ores/env_ores_35.png"
+ },
+ {
+  "asset": "env_ore_36",
+  "src": "SourceArt/sprites/env_ores/env_ores_36.png"
+ },
+ {
+  "asset": "env_ore_37",
+  "src": "SourceArt/sprites/env_ores/env_ores_37.png"
+ },
+ {
+  "asset": "env_ore_38",
+  "src": "SourceArt/sprites/env_ores/env_ores_38.png"
+ },
+ {
+  "asset": "env_ore_39",
+  "src": "SourceArt/sprites/env_ores/env_ores_39.png"
+ },
+ {
+  "asset": "env_plant_00",
+  "src": "SourceArt/sprites/env_plants/env_plants_00.png"
+ },
+ {
+  "asset": "env_plant_01",
+  "src": "SourceArt/sprites/env_plants/env_plants_01.png"
+ },
+ {
+  "asset": "env_plant_02",
+  "src": "SourceArt/sprites/env_plants/env_plants_02.png"
+ },
+ {
+  "asset": "env_plant_03",
+  "src": "SourceArt/sprites/env_plants/env_plants_03.png"
+ },
+ {
+  "asset": "env_plant_04",
+  "src": "SourceArt/sprites/env_plants/env_plants_04.png"
+ },
+ {
+  "asset": "env_plant_05",
+  "src": "SourceArt/sprites/env_plants/env_plants_05.png"
+ },
+ {
+  "asset": "env_plant_06",
+  "src": "SourceArt/sprites/env_plants/env_plants_06.png"
+ },
+ {
+  "asset": "env_plant_07",
+  "src": "SourceArt/sprites/env_plants/env_plants_07.png"
+ },
+ {
+  "asset": "env_plant_08",
+  "src": "SourceArt/sprites/env_plants/env_plants_08.png"
+ },
+ {
+  "asset": "env_plant_09",
+  "src": "SourceArt/sprites/env_plants/env_plants_09.png"
+ },
+ {
+  "asset": "env_plant_10",
+  "src": "SourceArt/sprites/env_plants/env_plants_10.png"
+ },
+ {
+  "asset": "env_plant_11",
+  "src": "SourceArt/sprites/env_plants/env_plants_11.png"
+ },
+ {
+  "asset": "env_plant_12",
+  "src": "SourceArt/sprites/env_plants/env_plants_12.png"
+ },
+ {
+  "asset": "env_plant_13",
+  "src": "SourceArt/sprites/env_plants/env_plants_13.png"
+ },
+ {
+  "asset": "env_plant_14",
+  "src": "SourceArt/sprites/env_plants/env_plants_14.png"
+ },
+ {
+  "asset": "env_plant_15",
+  "src": "SourceArt/sprites/env_plants/env_plants_15.png"
+ },
+ {
+  "asset": "env_plant_16",
+  "src": "SourceArt/sprites/env_plants/env_plants_16.png"
+ },
+ {
+  "asset": "env_plant_17",
+  "src": "SourceArt/sprites/env_plants/env_plants_17.png"
+ },
+ {
+  "asset": "env_plant_18",
+  "src": "SourceArt/sprites/env_plants/env_plants_18.png"
+ },
+ {
+  "asset": "env_plant_19",
+  "src": "SourceArt/sprites/env_plants/env_plants_19.png"
+ },
+ {
+  "asset": "env_plant_20",
+  "src": "SourceArt/sprites/env_plants/env_plants_20.png"
+ },
+ {
+  "asset": "env_plant_21",
+  "src": "SourceArt/sprites/env_plants/env_plants_21.png"
+ },
+ {
+  "asset": "env_plant_22",
+  "src": "SourceArt/sprites/env_plants/env_plants_22.png"
+ },
+ {
+  "asset": "env_plant_23",
+  "src": "SourceArt/sprites/env_plants/env_plants_23.png"
+ },
+ {
+  "asset": "env_plant_24",
+  "src": "SourceArt/sprites/env_plants/env_plants_24.png"
+ },
+ {
+  "asset": "env_plant_25",
+  "src": "SourceArt/sprites/env_plants/env_plants_25.png"
+ },
+ {
+  "asset": "env_plant_26",
+  "src": "SourceArt/sprites/env_plants/env_plants_26.png"
+ },
+ {
+  "asset": "env_plant_27",
+  "src": "SourceArt/sprites/env_plants/env_plants_27.png"
+ },
+ {
+  "asset": "env_plant_28",
+  "src": "SourceArt/sprites/env_plants/env_plants_28.png"
+ },
+ {
+  "asset": "env_plant_29",
+  "src": "SourceArt/sprites/env_plants/env_plants_29.png"
+ },
+ {
+  "asset": "env_plant_30",
+  "src": "SourceArt/sprites/env_plants/env_plants_30.png"
+ },
+ {
+  "asset": "env_plant_31",
+  "src": "SourceArt/sprites/env_plants/env_plants_31.png"
+ },
+ {
+  "asset": "env_rock_00",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_00.png"
+ },
+ {
+  "asset": "env_rock_01",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_01.png"
+ },
+ {
+  "asset": "env_rock_02",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_02.png"
+ },
+ {
+  "asset": "env_rock_03",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_03.png"
+ },
+ {
+  "asset": "env_rock_04",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_04.png"
+ },
+ {
+  "asset": "env_rock_05",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_05.png"
+ },
+ {
+  "asset": "env_rock_06",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_06.png"
+ },
+ {
+  "asset": "env_rock_07",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_07.png"
+ },
+ {
+  "asset": "env_rock_08",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_08.png"
+ },
+ {
+  "asset": "env_rock_09",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_09.png"
+ },
+ {
+  "asset": "env_rock_10",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_10.png"
+ },
+ {
+  "asset": "env_rock_11",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_11.png"
+ },
+ {
+  "asset": "env_rock_12",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_12.png"
+ },
+ {
+  "asset": "env_rock_13",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_13.png"
+ },
+ {
+  "asset": "env_rock_14",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_14.png"
+ },
+ {
+  "asset": "env_rock_15",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_15.png"
+ },
+ {
+  "asset": "env_rock_16",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_16.png"
+ },
+ {
+  "asset": "env_rock_17",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_17.png"
+ },
+ {
+  "asset": "env_rock_18",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_18.png"
+ },
+ {
+  "asset": "env_rock_19",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_19.png"
+ },
+ {
+  "asset": "env_rock_20",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_20.png"
+ },
+ {
+  "asset": "env_rock_21",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_21.png"
+ },
+ {
+  "asset": "env_rock_22",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_22.png"
+ },
+ {
+  "asset": "env_rock_23",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_23.png"
+ },
+ {
+  "asset": "env_rock_24",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_24.png"
+ },
+ {
+  "asset": "env_rock_25",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_25.png"
+ },
+ {
+  "asset": "env_rock_26",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_26.png"
+ },
+ {
+  "asset": "env_rock_27",
+  "src": "SourceArt/sprites/env_rocks/env_rocks_27.png"
+ },
+ {
+  "asset": "itm_egg_speckled",
+  "src": "SourceArt/sprites/itm_a/itm_a_00.png"
+ },
+ {
+  "asset": "itm_egg_spiked",
+  "src": "SourceArt/sprites/itm_a/itm_a_01.png"
+ },
+ {
+  "asset": "itm_egg_scaled",
+  "src": "SourceArt/sprites/itm_a/itm_a_02.png"
+ },
+ {
+  "asset": "itm_egg_bluespot",
+  "src": "SourceArt/sprites/itm_a/itm_a_03.png"
+ },
+ {
+  "asset": "itm_egg_redstripe",
+  "src": "SourceArt/sprites/itm_a/itm_a_04.png"
+ },
+ {
+  "asset": "itm_egg_toxic",
+  "src": "SourceArt/sprites/itm_a/itm_a_05.png"
+ },
+ {
+  "asset": "itm_egg_mech",
+  "src": "SourceArt/sprites/itm_a/itm_a_06.png"
+ },
+ {
+  "asset": "itm_egg_crystal",
+  "src": "SourceArt/sprites/itm_a/itm_a_07.png"
+ },
+ {
+  "asset": "itm_flint",
+  "src": "SourceArt/sprites/itm_a/itm_a_08.png"
+ },
+ {
+  "asset": "itm_spear_stone",
+  "src": "SourceArt/sprites/itm_a/itm_a_09.png"
+ },
+ {
+  "asset": "itm_arrows_flint",
+  "src": "SourceArt/sprites/itm_a/itm_a_10.png"
+ },
+ {
+  "asset": "itm_bolas",
+  "src": "SourceArt/sprites/itm_a/itm_a_11.png"
+ },
+ {
+  "asset": "itm_cannonball",
+  "src": "SourceArt/sprites/itm_a/itm_a_12.png"
+ },
+ {
+  "asset": "itm_acid_glob",
+  "src": "SourceArt/sprites/itm_a/itm_a_13.png"
+ },
+ {
+  "asset": "itm_shard_lightning",
+  "src": "SourceArt/sprites/itm_a/itm_a_14.png"
+ },
+ {
+  "asset": "itm_rocket_ammo",
+  "src": "SourceArt/sprites/itm_a/itm_a_15.png"
+ },
+ {
+  "asset": "itm_wood_bundle",
+  "src": "SourceArt/sprites/itm_a/itm_a_16.png"
+ },
+ {
+  "asset": "itm_stone_chunk",
+  "src": "SourceArt/sprites/itm_a/itm_a_17.png"
+ },
+ {
+  "asset": "itm_ore_iron",
+  "src": "SourceArt/sprites/itm_a/itm_a_18.png"
+ },
+ {
+  "asset": "itm_ore_copper",
+  "src": "SourceArt/sprites/itm_a/itm_a_19.png"
+ },
+ {
+  "asset": "itm_coal_chunk",
+  "src": "SourceArt/sprites/itm_a/itm_a_20.png"
+ },
+ {
+  "asset": "itm_shard_chrono",
+  "src": "SourceArt/sprites/itm_a/itm_a_21.png"
+ },
+ {
+  "asset": "itm_bone_bundle",
+  "src": "SourceArt/sprites/itm_a/itm_a_22.png"
+ },
+ {
+  "asset": "itm_hide_roll",
+  "src": "SourceArt/sprites/itm_a/itm_a_23.png"
+ },
+ {
+  "asset": "itm_gear_iron",
+  "src": "SourceArt/sprites/itm_a/itm_a_24.png"
+ },
+ {
+  "asset": "itm_circuit_basic",
+  "src": "SourceArt/sprites/itm_a/itm_a_25.png"
+ },
+ {
+  "asset": "itm_battery_cell",
+  "src": "SourceArt/sprites/itm_a/itm_a_26.png"
+ },
+ {
+  "asset": "itm_fuel_can",
+  "src": "SourceArt/sprites/itm_a/itm_a_27.png"
+ },
+ {
+  "asset": "itm_bio_canister",
+  "src": "SourceArt/sprites/itm_a/itm_a_28.png"
+ },
+ {
+  "asset": "itm_plates_metal",
+  "src": "SourceArt/sprites/itm_a/itm_a_29.png"
+ },
+ {
+  "asset": "itm_coil_copper",
+  "src": "SourceArt/sprites/itm_a/itm_a_30.png"
+ },
+ {
+  "asset": "itm_medkit_a",
+  "src": "SourceArt/sprites/itm_a/itm_a_31.png"
+ },
+ {
+  "asset": "itm_ingot_iron",
+  "src": "SourceArt/sprites/itm_b/itm_b_00.png"
+ },
+ {
+  "asset": "itm_plate_iron",
+  "src": "SourceArt/sprites/itm_b/itm_b_01.png"
+ },
+ {
+  "asset": "itm_rods_iron",
+  "src": "SourceArt/sprites/itm_b/itm_b_02.png"
+ },
+ {
+  "asset": "itm_ingot_copper",
+  "src": "SourceArt/sprites/itm_b/itm_b_03.png"
+ },
+ {
+  "asset": "itm_plate_copper",
+  "src": "SourceArt/sprites/itm_b/itm_b_04.png"
+ },
+ {
+  "asset": "itm_coil_copper_big",
+  "src": "SourceArt/sprites/itm_b/itm_b_05.png"
+ },
+ {
+  "asset": "itm_beam_steel",
+  "src": "SourceArt/sprites/itm_b/itm_b_06.png"
+ },
+ {
+  "asset": "itm_plates_steel",
+  "src": "SourceArt/sprites/itm_b/itm_b_07.png"
+ },
+ {
+  "asset": "itm_ingot_titanium",
+  "src": "SourceArt/sprites/itm_b/itm_b_08.png"
+ },
+ {
+  "asset": "itm_plate_titanium",
+  "src": "SourceArt/sprites/itm_b/itm_b_09.png"
+ },
+ {
+  "asset": "itm_rods_titanium",
+  "src": "SourceArt/sprites/itm_b/itm_b_10.png"
+ },
+ {
+  "asset": "itm_crystal_chrono",
+  "src": "SourceArt/sprites/itm_b/itm_b_11.png"
+ },
+ {
+  "asset": "itm_bar_chrono",
+  "src": "SourceArt/sprites/itm_b/itm_b_12.png"
+ },
+ {
+  "asset": "itm_core_uranium",
+  "src": "SourceArt/sprites/itm_b/itm_b_13.png"
+ },
+ {
+  "asset": "itm_vial_uranium",
+  "src": "SourceArt/sprites/itm_b/itm_b_14.png"
+ },
+ {
+  "asset": "itm_block_basalt",
+  "src": "SourceArt/sprites/itm_b/itm_b_15.png"
+ },
+ {
+  "asset": "itm_plate_carbon",
+  "src": "SourceArt/sprites/itm_b/itm_b_16.png"
+ },
+ {
+  "asset": "itm_bricks_grey",
+  "src": "SourceArt/sprites/itm_b/itm_b_17.png"
+ },
+ {
+  "asset": "itm_bricks_light",
+  "src": "SourceArt/sprites/itm_b/itm_b_18.png"
+ },
+ {
+  "asset": "itm_brick_clay",
+  "src": "SourceArt/sprites/itm_b/itm_b_19.png"
+ },
+ {
+  "asset": "itm_block_sandstone",
+  "src": "SourceArt/sprites/itm_b/itm_b_20.png"
+ },
+ {
+  "asset": "itm_bundle_straw",
+  "src": "SourceArt/sprites/itm_b/itm_b_21.png"
+ },
+ {
+  "asset": "itm_roll_thatch",
+  "src": "SourceArt/sprites/itm_b/itm_b_22.png"
+ },
+ {
+  "asset": "itm_planks_lumber",
+  "src": "SourceArt/sprites/itm_b/itm_b_23.png"
+ },
+ {
+  "asset": "itm_beam_wood",
+  "src": "SourceArt/sprites/itm_b/itm_b_24.png"
+ },
+ {
+  "asset": "itm_bones_pair",
+  "src": "SourceArt/sprites/itm_b/itm_b_25.png"
+ },
+ {
+  "asset": "itm_roll_leather",
+  "src": "SourceArt/sprites/itm_b/itm_b_26.png"
+ },
+ {
+  "asset": "itm_amber_resin",
+  "src": "SourceArt/sprites/itm_b/itm_b_27.png"
+ },
+ {
+  "asset": "itm_panes_glass",
+  "src": "SourceArt/sprites/itm_b/itm_b_28.png"
+ },
+ {
+  "asset": "itm_coil_rubber",
+  "src": "SourceArt/sprites/itm_b/itm_b_29.png"
+ },
+ {
+  "asset": "itm_gear_steel",
+  "src": "SourceArt/sprites/itm_b/itm_b_30.png"
+ },
+ {
+  "asset": "itm_piston",
+  "src": "SourceArt/sprites/itm_b/itm_b_31.png"
+ },
+ {
+  "asset": "itm_circuit_adv",
+  "src": "SourceArt/sprites/itm_b/itm_b_32.png"
+ },
+ {
+  "asset": "itm_wires_colored",
+  "src": "SourceArt/sprites/itm_b/itm_b_33.png"
+ },
+ {
+  "asset": "itm_grating_mesh",
+  "src": "SourceArt/sprites/itm_b/itm_b_34.png"
+ },
+ {
+  "asset": "itm_plate_armor",
+  "src": "SourceArt/sprites/itm_b/itm_b_35.png"
+ },
+ {
+  "asset": "itm_roll_carbonfiber",
+  "src": "SourceArt/sprites/itm_b/itm_b_36.png"
+ },
+ {
+  "asset": "itm_fitting_pipe",
+  "src": "SourceArt/sprites/itm_b/itm_b_37.png"
+ },
+ {
+  "asset": "itm_brick_sulfur",
+  "src": "SourceArt/sprites/itm_b/itm_b_38.png"
+ },
+ {
+  "asset": "itm_block_concrete",
+  "src": "SourceArt/sprites/itm_b/itm_b_39.png"
+ },
+ {
+  "asset": "itm_sack_feed",
+  "src": "SourceArt/sprites/itm_c/itm_c_00.png"
+ },
+ {
+  "asset": "itm_bale_hay",
+  "src": "SourceArt/sprites/itm_c/itm_c_01.png"
+ },
+ {
+  "asset": "itm_sack_straw",
+  "src": "SourceArt/sprites/itm_c/itm_c_02.png"
+ },
+ {
+  "asset": "itm_sack_grain",
+  "src": "SourceArt/sprites/itm_c/itm_c_03.png"
+ },
+ {
+  "asset": "itm_basket_berry",
+  "src": "SourceArt/sprites/itm_c/itm_c_04.png"
+ },
+ {
+  "asset": "itm_crate_fruit",
+  "src": "SourceArt/sprites/itm_c/itm_c_05_p0.png"
+ },
+ {
+  "asset": "itm_crate_fish",
+  "src": "SourceArt/sprites/itm_c/itm_c_05_p1.png"
+ },
+ {
+  "asset": "itm_crate_meat",
+  "src": "SourceArt/sprites/itm_c/itm_c_05_p2.png"
+ },
+ {
+  "asset": "itm_kit_dino",
+  "src": "SourceArt/sprites/itm_c/itm_c_06.png"
+ },
+ {
+  "asset": "itm_bundle_herb",
+  "src": "SourceArt/sprites/itm_c/itm_c_07.png"
+ },
+ {
+  "asset": "itm_sack_seed",
+  "src": "SourceArt/sprites/itm_c/itm_c_08.png"
+ },
+ {
+  "asset": "itm_bag_fertilizer",
+  "src": "SourceArt/sprites/itm_c/itm_c_09.png"
+ },
+ {
+  "asset": "itm_sack_bonemeal",
+  "src": "SourceArt/sprites/itm_c/itm_c_10.png"
+ },
+ {
+  "asset": "itm_bucket_water",
+  "src": "SourceArt/sprites/itm_c/itm_c_11.png"
+ },
+ {
+  "asset": "itm_barrel_water",
+  "src": "SourceArt/sprites/itm_c/itm_c_12.png"
+ },
+ {
+  "asset": "itm_drum_oil",
+  "src": "SourceArt/sprites/itm_c/itm_c_13.png"
+ },
+ {
+  "asset": "itm_barrel_bio",
+  "src": "SourceArt/sprites/itm_c/itm_c_14.png"
+ },
+ {
+  "asset": "itm_barrel_hazard",
+  "src": "SourceArt/sprites/itm_c/itm_c_15.png"
+ },
+ {
+  "asset": "itm_barrel_chem",
+  "src": "SourceArt/sprites/itm_c/itm_c_16.png"
+ },
+ {
+  "asset": "itm_drum_blue",
+  "src": "SourceArt/sprites/itm_c/itm_c_17.png"
+ },
+ {
+  "asset": "itm_can_milk",
+  "src": "SourceArt/sprites/itm_c/itm_c_18.png"
+ },
+ {
+  "asset": "itm_jar_honey",
+  "src": "SourceArt/sprites/itm_c/itm_c_19.png"
+ },
+ {
+  "asset": "itm_jar_amber",
+  "src": "SourceArt/sprites/itm_c/itm_c_20.png"
+ },
+ {
+  "asset": "itm_bundle_leather",
+  "src": "SourceArt/sprites/itm_c/itm_c_21.png"
+ },
+ {
+  "asset": "itm_kit_field",
+  "src": "SourceArt/sprites/itm_c/itm_c_22.png"
+ },
+ {
+  "asset": "itm_medkit_c",
+  "src": "SourceArt/sprites/itm_c/itm_c_23.png"
+ },
+ {
+  "asset": "itm_chest_ice",
+  "src": "SourceArt/sprites/itm_c/itm_c_24.png"
+ },
+ {
+  "asset": "itm_canister_cryo",
+  "src": "SourceArt/sprites/itm_c/itm_c_25.png"
+ },
+ {
+  "asset": "itm_carton_egg",
+  "src": "SourceArt/sprites/itm_c/itm_c_26.png"
+ },
+ {
+  "asset": "itm_pod_incubator",
+  "src": "SourceArt/sprites/itm_c/itm_c_27.png"
+ },
+ {
+  "asset": "itm_bin_compost",
+  "src": "SourceArt/sprites/itm_c/itm_c_28.png"
+ },
+ {
+  "asset": "itm_crate_ammo",
+  "src": "SourceArt/sprites/itm_c/itm_c_29.png"
+ },
+ {
+  "asset": "itm_pallet_cargo",
+  "src": "SourceArt/sprites/itm_c/itm_c_30.png"
+ },
+ {
+  "asset": "itm_pouch_seed",
+  "src": "SourceArt/sprites/itm_c/itm_c_31.png"
+ },
+ {
+  "asset": "itm_crate_bone",
+  "src": "SourceArt/sprites/itm_c/itm_c_32.png"
+ },
+ {
+  "asset": "itm_crate_orestone",
+  "src": "SourceArt/sprites/itm_c/itm_c_33.png"
+ },
+ {
+  "asset": "itm_tray_paste",
+  "src": "SourceArt/sprites/itm_c/itm_c_34.png"
+ },
+ {
+  "asset": "itm_coil_rope",
+  "src": "SourceArt/sprites/itm_c/itm_c_35.png"
+ },
+ {
+  "asset": "itm_ingots_silver",
+  "src": "SourceArt/sprites/itm_c/itm_c_36.png"
+ },
+ {
+  "asset": "itm_plates_dark",
+  "src": "SourceArt/sprites/itm_c/itm_c_37.png"
+ },
+ {
+  "asset": "itm_battery_small",
+  "src": "SourceArt/sprites/itm_d/itm_d_00.png"
+ },
+ {
+  "asset": "itm_battery_pack",
+  "src": "SourceArt/sprites/itm_d/itm_d_01.png"
+ },
+ {
+  "asset": "itm_capacitor_tank",
+  "src": "SourceArt/sprites/itm_d/itm_d_02.png"
+ },
+ {
+  "asset": "itm_sparkgap_coil",
+  "src": "SourceArt/sprites/itm_d/itm_d_03.png"
+ },
+ {
+  "asset": "itm_transformer_a",
+  "src": "SourceArt/sprites/itm_d/itm_d_04.png"
+ },
+ {
+  "asset": "itm_transformer_tall",
+  "src": "SourceArt/sprites/itm_d/itm_d_05.png"
+ },
+ {
+  "asset": "itm_transformer_b",
+  "src": "SourceArt/sprites/itm_d/itm_d_06.png"
+ },
+ {
+  "asset": "itm_cabinet_breaker",
+  "src": "SourceArt/sprites/itm_d/itm_d_07.png"
+ },
+ {
+  "asset": "itm_panel_fuse",
+  "src": "SourceArt/sprites/itm_d/itm_d_08.png"
+ },
+ {
+  "asset": "itm_pole_wood",
+  "src": "SourceArt/sprites/itm_d/itm_d_09.png"
+ },
+ {
+  "asset": "itm_pole_transformer",
+  "src": "SourceArt/sprites/itm_d/itm_d_10.png"
+ },
+ {
+  "asset": "itm_pylon_lattice",
+  "src": "SourceArt/sprites/itm_d/itm_d_11.png"
+ },
+ {
+  "asset": "itm_box_junction",
+  "src": "SourceArt/sprites/itm_d/itm_d_12.png"
+ },
+ {
+  "asset": "itm_spool_copper",
+  "src": "SourceArt/sprites/itm_d/itm_d_13.png"
+ },
+ {
+  "asset": "itm_cable_heavy",
+  "src": "SourceArt/sprites/itm_d/itm_d_14.png"
+ },
+ {
+  "asset": "itm_module_battery",
+  "src": "SourceArt/sprites/itm_d/itm_d_15.png"
+ },
+ {
+  "asset": "itm_station_charge",
+  "src": "SourceArt/sprites/itm_d/itm_d_16.png"
+ },
+ {
+  "asset": "itm_pad_dronecharge",
+  "src": "SourceArt/sprites/itm_d/itm_d_17.png"
+ },
+ {
+  "asset": "itm_lamp_street",
+  "src": "SourceArt/sprites/itm_d/itm_d_18.png"
+ },
+ {
+  "asset": "itm_light_flood",
+  "src": "SourceArt/sprites/itm_d/itm_d_19.png"
+ },
+ {
+  "asset": "itm_beacon_alarm",
+  "src": "SourceArt/sprites/itm_d/itm_d_20.png"
+ },
+ {
+  "asset": "itm_unit_relay",
+  "src": "SourceArt/sprites/itm_d/itm_d_21.png"
+ },
+ {
+  "asset": "itm_tank_pressure",
+  "src": "SourceArt/sprites/itm_d/itm_d_22.png"
+ },
+ {
+  "asset": "itm_tower_water",
+  "src": "SourceArt/sprites/itm_d/itm_d_23.png"
+ },
+ {
+  "asset": "itm_motor_pump",
+  "src": "SourceArt/sprites/itm_d/itm_d_24.png"
+ },
+ {
+  "asset": "itm_valve_red",
+  "src": "SourceArt/sprites/itm_d/itm_d_25.png"
+ },
+ {
+  "asset": "itm_meter_gauge",
+  "src": "SourceArt/sprites/itm_d/itm_d_26.png"
+ },
+ {
+  "asset": "itm_block_junction",
+  "src": "SourceArt/sprites/itm_d/itm_d_27.png"
+ },
+ {
+  "asset": "itm_station_fabarm",
+  "src": "SourceArt/sprites/itm_d/itm_d_28.png"
+ },
+ {
+  "asset": "itm_bay_mechcharge",
+  "src": "SourceArt/sprites/itm_d/itm_d_29.png"
+ },
+ {
+  "asset": "itm_trailer_generator",
+  "src": "SourceArt/sprites/itm_d/itm_d_30.png"
+ },
+ {
+  "asset": "itm_unit_solarcharge",
+  "src": "SourceArt/sprites/itm_d/itm_d_31.png"
+ },
+ {
+  "asset": "bld_belt_straight",
+  "src": "SourceArt/sprites/logi/logi_00.png"
+ },
+ {
+  "asset": "bld_belt_fast",
+  "src": "SourceArt/sprites/logi/logi_01.png"
+ },
+ {
+  "asset": "bld_rail_track",
+  "src": "SourceArt/sprites/logi/logi_02.png"
+ },
+ {
+  "asset": "bld_belt_curve",
+  "src": "SourceArt/sprites/logi/logi_03.png"
+ },
+ {
+  "asset": "bld_belt_curve_fast",
+  "src": "SourceArt/sprites/logi/logi_04.png"
+ },
+ {
+  "asset": "bld_belt_tee",
+  "src": "SourceArt/sprites/logi/logi_05.png"
+ },
+ {
+  "asset": "bld_belt_stop",
+  "src": "SourceArt/sprites/logi/logi_06.png"
+ },
+ {
+  "asset": "bld_belt_roller",
+  "src": "SourceArt/sprites/logi/logi_07.png"
+ },
+ {
+  "asset": "bld_belt_cross",
+  "src": "SourceArt/sprites/logi/logi_08.png"
+ },
+ {
+  "asset": "bld_loader_fast",
+  "src": "SourceArt/sprites/logi/logi_09.png"
+ },
+ {
+  "asset": "bld_loader",
+  "src": "SourceArt/sprites/logi/logi_10.png"
+ },
+ {
+  "asset": "bld_tunnel_in",
+  "src": "SourceArt/sprites/logi/logi_11.png"
+ },
+ {
+  "asset": "bld_tunnel_fast",
+  "src": "SourceArt/sprites/logi/logi_12.png"
+ },
+ {
+  "asset": "bld_pipe_straight",
+  "src": "SourceArt/sprites/logi/logi_13.png"
+ },
+ {
+  "asset": "bld_pipe_elbow",
+  "src": "SourceArt/sprites/logi/logi_14.png"
+ },
+ {
+  "asset": "bld_pipe_tee",
+  "src": "SourceArt/sprites/logi/logi_15.png"
+ },
+ {
+  "asset": "bld_pipe_cross",
+  "src": "SourceArt/sprites/logi/logi_16.png"
+ },
+ {
+  "asset": "bld_pump_motor",
+  "src": "SourceArt/sprites/logi/logi_17.png"
+ },
+ {
+  "asset": "bld_valve_wheel",
+  "src": "SourceArt/sprites/logi/logi_18.png"
+ },
+ {
+  "asset": "bld_tank_small",
+  "src": "SourceArt/sprites/logi/logi_19.png"
+ },
+ {
+  "asset": "bld_tank_horizontal",
+  "src": "SourceArt/sprites/logi/logi_20.png"
+ },
+ {
+  "asset": "bld_tank_sphere",
+  "src": "SourceArt/sprites/logi/logi_21.png"
+ },
+ {
+  "asset": "bld_drone_quad",
+  "src": "SourceArt/sprites/logi/logi_22.png"
+ },
+ {
+  "asset": "bld_drone_hex",
+  "src": "SourceArt/sprites/logi/logi_23.png"
+ },
+ {
+  "asset": "bld_drone_wing",
+  "src": "SourceArt/sprites/logi/logi_24.png"
+ },
+ {
+  "asset": "bld_drone_lift",
+  "src": "SourceArt/sprites/logi/logi_25.png"
+ },
+ {
+  "asset": "bld_pad_drone",
+  "src": "SourceArt/sprites/logi/logi_26.png"
+ },
+ {
+  "asset": "bld_pad_station",
+  "src": "SourceArt/sprites/logi/logi_27.png"
+ },
+ {
+  "asset": "bld_depot_gate",
+  "src": "SourceArt/sprites/logi/logi_28.png"
+ },
+ {
+  "asset": "bld_relay_dome",
+  "src": "SourceArt/sprites/logi/logi_29.png"
+ },
+ {
+  "asset": "bld_tower_charge",
+  "src": "SourceArt/sprites/logi/logi_30.png"
+ },
+ {
+  "asset": "bld_hub_round",
+  "src": "SourceArt/sprites/logi/logi_31.png"
+ },
+ {
+  "asset": "bld_arm_small",
+  "src": "SourceArt/sprites/logi/logi_32.png"
+ },
+ {
+  "asset": "bld_arm_long",
+  "src": "SourceArt/sprites/logi/logi_33.png"
+ },
+ {
+  "asset": "bld_arm_tall",
+  "src": "SourceArt/sprites/logi/logi_34.png"
+ },
+ {
+  "asset": "bld_arm_twin",
+  "src": "SourceArt/sprites/logi/logi_35.png"
+ },
+ {
+  "asset": "bld_arm_gem",
+  "src": "SourceArt/sprites/logi/logi_36.png"
+ },
+ {
+  "asset": "bld_arm_box",
+  "src": "SourceArt/sprites/logi/logi_37.png"
+ },
+ {
+  "asset": "bld_arm_dualclaw",
+  "src": "SourceArt/sprites/logi/logi_38.png"
+ },
+ {
+  "asset": "bld_crate_glow",
+  "src": "SourceArt/sprites/logi/logi_39.png"
+ },
+ {
+  "asset": "bld_chest_blue",
+  "src": "SourceArt/sprites/logi/logi_40.png"
+ },
+ {
+  "asset": "bld_crate_ore",
+  "src": "SourceArt/sprites/logi/logi_41.png"
+ },
+ {
+  "asset": "bld_crate_x",
+  "src": "SourceArt/sprites/logi/logi_42.png"
+ },
+ {
+  "asset": "bld_crate_arrow",
+  "src": "SourceArt/sprites/logi/logi_43.png"
+ },
+ {
+  "asset": "bld_ramp_conveyor",
+  "src": "SourceArt/sprites/logi/logi_44.png"
+ },
+ {
+  "asset": "bld_hopper_blue",
+  "src": "SourceArt/sprites/logi/logi_45.png"
+ },
+ {
+  "asset": "bld_crate_gear",
+  "src": "SourceArt/sprites/logi/logi_46.png"
+ },
+ {
+  "asset": "bld_conveyor_stack",
+  "src": "SourceArt/sprites/logi/logi_47.png"
+ },
+ {
+  "asset": "ply_ply_front",
+  "src": "SourceArt/sprites/player/player_00.png"
+ },
+ {
+  "asset": "ply_ply_back",
+  "src": "SourceArt/sprites/player/player_01.png"
+ },
+ {
+  "asset": "ply_ply_side",
+  "src": "SourceArt/sprites/player/player_02.png"
+ },
+ {
+  "asset": "bld_hand_crank",
+  "src": "SourceArt/sprites/power/power_00.png"
+ },
+ {
+  "asset": "bld_flywheel_dynamo",
+  "src": "SourceArt/sprites/power/power_01.png"
+ },
+ {
+  "asset": "bld_wind_turbine",
+  "src": "SourceArt/sprites/power/power_02.png"
+ },
+ {
+  "asset": "bld_hydro_wheel",
+  "src": "SourceArt/sprites/power/power_03.png"
+ },
+ {
+  "asset": "bld_steam_boiler",
+  "src": "SourceArt/sprites/power/power_04.png"
+ },
+ {
+  "asset": "bld_steam_engine",
+  "src": "SourceArt/sprites/power/power_05.png"
+ },
+ {
+  "asset": "bld_coal_burner",
+  "src": "SourceArt/sprites/power/power_06.png"
+ },
+ {
+  "asset": "bld_oil_generator",
+  "src": "SourceArt/sprites/power/power_07.png"
+ },
+ {
+  "asset": "bld_bio_reactor",
+  "src": "SourceArt/sprites/power/power_08.png"
+ },
+ {
+  "asset": "bld_geothermal_vent",
+  "src": "SourceArt/sprites/power/power_09.png"
+ },
+ {
+  "asset": "bld_solar_panel",
+  "src": "SourceArt/sprites/power/power_10.png"
+ },
+ {
+  "asset": "bld_battery_bank",
+  "src": "SourceArt/sprites/power/power_11.png"
+ },
+ {
+  "asset": "bld_gas_turbine",
+  "src": "SourceArt/sprites/power/power_12.png"
+ },
+ {
+  "asset": "bld_flare_stack",
+  "src": "SourceArt/sprites/power/power_13.png"
+ },
+ {
+  "asset": "bld_nuclear_plant",
+  "src": "SourceArt/sprites/power/power_14.png"
+ },
+ {
+  "asset": "bld_fusion_vessel",
+  "src": "SourceArt/sprites/power/power_15.png"
+ },
+ {
+  "asset": "bld_heat_pump",
+  "src": "SourceArt/sprites/power/power_16.png"
+ },
+ {
+  "asset": "bld_turbine_hall",
+  "src": "SourceArt/sprites/power/power_17.png"
+ },
+ {
+  "asset": "bld_rad_canister",
+  "src": "SourceArt/sprites/power/power_18.png"
+ },
+ {
+  "asset": "bld_arc_reactor",
+  "src": "SourceArt/sprites/power/power_19.png"
+ },
+ {
+  "asset": "bld_plasma_torus",
+  "src": "SourceArt/sprites/power/power_20.png"
+ },
+ {
+  "asset": "bld_tesla_conduit",
+  "src": "SourceArt/sprites/power/power_21.png"
+ },
+ {
+  "asset": "bld_cryo_cell",
+  "src": "SourceArt/sprites/power/power_22.png"
+ },
+ {
+  "asset": "bld_bio_cell",
+  "src": "SourceArt/sprites/power/power_23.png"
+ },
+ {
+  "asset": "bld_vortex_generator",
+  "src": "SourceArt/sprites/power/power_24.png"
+ },
+ {
+  "asset": "bld_battery_stack",
+  "src": "SourceArt/sprites/power/power_25.png"
+ },
+ {
+  "asset": "bld_algae_vat",
+  "src": "SourceArt/sprites/power/power_26.png"
+ },
+ {
+  "asset": "bld_crystal_resonator",
+  "src": "SourceArt/sprites/power/power_27.png"
+ },
+ {
+  "asset": "bld_fuse_box",
+  "src": "SourceArt/sprites/power/power_28.png"
+ },
+ {
+  "asset": "bld_power_cube",
+  "src": "SourceArt/sprites/power/power_29.png"
+ },
+ {
+  "asset": "bld_core_red",
+  "src": "SourceArt/sprites/power/power_30.png"
+ },
+ {
+  "asset": "rob_rb_cannon_walker",
+  "src": "SourceArt/sprites/robots_b/robots_b_00.png"
+ },
+ {
+  "asset": "rob_rb_hauler_sixleg",
+  "src": "SourceArt/sprites/robots_b/robots_b_01.png"
+ },
+ {
+  "asset": "rob_rb_spider_orb",
+  "src": "SourceArt/sprites/robots_b/robots_b_02.png"
+ },
+ {
+  "asset": "rob_rb_mech_shield",
+  "src": "SourceArt/sprites/robots_b/robots_b_03.png"
+ },
+ {
+  "asset": "rob_rb_drone_twinrotor",
+  "src": "SourceArt/sprites/robots_b/robots_b_04.png"
+ },
+ {
+  "asset": "rob_rb_artillery",
+  "src": "SourceArt/sprites/robots_b/robots_b_05.png"
+ },
+ {
+  "asset": "rob_rb_tripod_sentry",
+  "src": "SourceArt/sprites/robots_b/robots_b_06.png"
+ },
+ {
+  "asset": "rob_rb_gunship",
+  "src": "SourceArt/sprites/robots_b/robots_b_07.png"
+ },
+ {
+  "asset": "rob_rb_crane_bot",
+  "src": "SourceArt/sprites/robots_b/robots_b_08.png"
+ },
+ {
+  "asset": "rob_rb_mech_heavy",
+  "src": "SourceArt/sprites/robots_b/robots_b_09.png"
+ },
+ {
+  "asset": "rob_rb_drone_fly",
+  "src": "SourceArt/sprites/robots_b/robots_b_10.png"
+ },
+ {
+  "asset": "rob_rb_hauler_quad",
+  "src": "SourceArt/sprites/robots_b/robots_b_11.png"
+ },
+ {
+  "asset": "rob_rb_drill_spider",
+  "src": "SourceArt/sprites/robots_b/robots_b_12.png"
+ },
+ {
+  "asset": "rob_rb_orb_bomber",
+  "src": "SourceArt/sprites/robots_b/robots_b_13.png"
+ },
+ {
+  "asset": "rob_rb_mech_brawler",
+  "src": "SourceArt/sprites/robots_b/robots_b_14.png"
+ },
+ {
+  "asset": "rob_rb_tank_drill",
+  "src": "SourceArt/sprites/robots_b/robots_b_15.png"
+ },
+ {
+  "asset": "rob_rb_dome_spider",
+  "src": "SourceArt/sprites/robots_b/robots_b_16.png"
+ },
+ {
+  "asset": "rob_rb_sniper_droid",
+  "src": "SourceArt/sprites/robots_b/robots_b_17.png"
+ },
+ {
+  "asset": "rob_rb_crab_bot",
+  "src": "SourceArt/sprites/robots_b/robots_b_18.png"
+ },
+ {
+  "asset": "rob_rb_jet",
+  "src": "SourceArt/sprites/robots_b/robots_b_19.png"
+ },
+ {
+  "asset": "rob_rb_mech_shieldgen",
+  "src": "SourceArt/sprites/robots_b/robots_b_20.png"
+ },
+ {
+  "asset": "rob_rb_cargo_walker",
+  "src": "SourceArt/sprites/robots_b/robots_b_21.png"
+ },
+ {
+  "asset": "rob_rb_swarm_micro",
+  "src": "SourceArt/sprites/robots_b/robots_b_22.png"
+ },
+ {
+  "asset": "rob_rb_siege_tank",
+  "src": "SourceArt/sprites/robots_b/robots_b_23.png"
+ },
+ {
+  "asset": "rob_rb_cannon_tank",
+  "src": "SourceArt/sprites/robots_b/robots_b_24.png"
+ },
+ {
+  "asset": "rob_rb_recon_quad",
+  "src": "SourceArt/sprites/robots_b/robots_b_25.png"
+ },
+ {
+  "asset": "rob_rb_saw_breaker",
+  "src": "SourceArt/sprites/robots_b/robots_b_26.png"
+ },
+ {
+  "asset": "rob_rb_dome_turret",
+  "src": "SourceArt/sprites/robots_b/robots_b_27.png"
+ },
+ {
+  "asset": "rob_rb_mech_flame",
+  "src": "SourceArt/sprites/robots_b/robots_b_28.png"
+ },
+ {
+  "asset": "rob_rb_crane_tracked",
+  "src": "SourceArt/sprites/robots_b/robots_b_29.png"
+ },
+ {
+  "asset": "rob_rb_quad_sentry",
+  "src": "SourceArt/sprites/robots_b/robots_b_30.png"
+ },
+ {
+  "asset": "rob_rb_apc",
+  "src": "SourceArt/sprites/robots_b/robots_b_31.png"
+ }
+]

@@ -1,0 +1,183 @@
+{
+  "_comment": "sheet -> index -> slug. 'junk-' prefix = do not import. Splits handled in build_manifest.py. Env sheets auto-slugged.",
+  "bld_t1": {
+    "0": "hut_bonehide", "1": "hut_tent", "2": "hut_thatch", "3": "hut_bonedome",
+    "4": "skull_workbench", "5": "hut_hearth", "6": "gate_bone", "7": "roundhouse_rib",
+    "8": "kiln_smoke", "9": "meat_rack", "10": "fire_pit", "11": "pit_mine",
+    "12": "fence_spike", "13": "forge_bone", "14": "junk-sliver1", "15": "watchtower_stone",
+    "16": "hut_mound", "17": "leanto_leaf", "18": "teepee_thatch", "19": "pond_basin",
+    "20": "stockpile_rock", "21": "planter_bed", "22": "trap_spike", "23": "mill_grind",
+    "24": "cauldron_stone", "25": "rack_hide", "26": "nest_pen", "27": "mill_woodgear",
+    "28": "fort_palisade"
+  },
+  "bld_t2": {
+    "0": "press_hammer", "1": "furnace_blast", "2": "crane_drill", "3": "derrick_crane",
+    "4": "factory_skull", "5": "boiler_stack", "6": "workshop_gear", "7": "refinery_pipe",
+    "8": "forge_round", "9": "mine_scaffold", "10": "pump_house", "11": "lab_reddome",
+    "12": "tesla_station", "13": "hut_greendome", "14": "greenhouse_glass", "15": "forge_spire",
+    "16": "factory_mun", "17": "chem_tanks", "18": "refinery_teal", "19": "platform_redring",
+    "20": "tower_watch2", "21": "junk-sliver2", "22": "kiln_statue", "23": "lab_redrocket",
+    "24": "observatory_round", "25": "assembler_crane", "26": "depot_cargo", "27": "radar_station",
+    "28": "pad_hex"
+  },
+  "bld_t3": {
+    "0": "hq_cyber", "1": "tower_generator", "2": "lab_glassdome", "3": "assembler_servo",
+    "4": "bay_holoconsole", "5": "spire_data", "6": "dish_uplink", "7": "pad_round",
+    "8": "vats_green", "9": "complex_spire", "10": "turret_cannon3", "11": "bunker_ramp",
+    "12": "ring_green", "13": "rack_capsules", "14": "arm_robot3", "15": "junk-sliver3",
+    "16": "lab_dome2", "17": "frame_mech", "18": "pad_holo", "19": "tower_cyl",
+    "20": "turret_twin3", "21": "pedestal_dino", "22": "gate_portal", "23": "pad_road",
+    "24": "mech_robot3", "25": "reactor_capsule", "26": "dome_stack", "27": "fortress_round",
+    "28": "silo_rocket3", "29": "ring_accelerator", "30": "antenna_spindle"
+  },
+  "bld_t4": {
+    "0": "hq_synthetic", "1": "tower_block4", "2": "dome_orb", "3": "platform_gun4",
+    "4": "tower_capsule", "5": "ring_large4", "6": "spire_triple", "7": "block_solar",
+    "8": "cube_module", "9": "cabinet_server", "10": "ring_gold", "11": "spire_crystal",
+    "12": "complex_multispire", "13": "dish_deep", "14": "towers_twin", "15": "junk-sliver4",
+    "16": "platform_crane4", "17": "tower_cyl4", "18": "blocks_modular", "19": "spire_tall4",
+    "20": "core_bluering", "21": "turret_heavy4", "22": "bunker_4", "23": "tower_guard4",
+    "24": "pad_runway", "25": "mech_4", "26": "fortress_block", "27": "tower_orb4",
+    "28": "hq_cathedral", "29": "silo_missile4", "30": "pad_ring4", "31": "tower_antenna4"
+  },
+  "bld_dark_a": {
+    "0": "dk_dome_reactor", "1": "dk_tube_red", "2": "dk_conversion_rig", "3": "dk_spire_orb",
+    "4": "dk_fort_skullgate", "5": "dk_holo_dino", "6": "dk_furnace", "7": "dk_crane_pit",
+    "8": "dk_shrine_horned", "9": "dk_arch_raptor", "10": "dk_hub_purple", "11": "dk_gate_specimen",
+    "12": "dk_vat_embryo", "13": "dk_lab_twintank", "14": "dk_pad_launch", "15": "dk_cage_meshdome",
+    "16": "dk_tanks_redcapsule", "17": "dk_platform_trex", "18": "dk_dome_spiked", "19": "dk_siphon_crystal",
+    "20": "dk_bay_armordino", "21": "dk_vat_redcyl", "22": "dk_lab_tritank", "23": "dk_turret_cannon",
+    "24": "dk_lab_chem", "25": "dk_rig_skeleton", "26": "dk_cathedral", "27": "dk_pad_hookcrane",
+    "28": "dk_tower_bluecapsule", "29": "dk_dish_comm", "30": "dk_gate_vault", "31": "dk_lab_purpledome"
+  },
+  "bld_dark_b": {
+    "0": "dk_fort_banner", "1": "dk_cage_barrel", "2": "dk_crane_gallows", "3": "dk_furnace_bell",
+    "4": "dk_tower_round", "5": "dk_pen_electro", "6": "dk_boiler_orb", "7": "dk_pool_spike",
+    "8": "dk_pen_cage", "9": "dk_crane_claw", "10": "dk_cage_tube", "11": "dk_arena_ring",
+    "12": "dk_mill_gear", "13": "dk_tent_circus", "14": "dk_vats_acid", "15": "dk_shrine_bull",
+    "16": "dk_rack_butcher", "17": "dk_crane_magnet", "18": "dk_factory_pipe", "19": "dk_arena_grey",
+    "20": "dk_vat_orb", "21": "dk_smokehouse", "22": "dk_barn_dome", "23": "dk_pen_purple",
+    "24": "dk_depot_cart", "25": "dk_tower_skull", "26": "dk_boiler_moss", "27": "dk_fort_medic",
+    "28": "dk_spire_tesla", "29": "dk_tower_dish", "30": "dk_gate_great", "31": "dk_rig_crystal"
+  },
+  "bld_tribal": {
+    "0": "tr_hall_thatch", "1": "tr_wheel_dino", "2": "tr_frame_harness", "3": "tr_crane_sauro",
+    "4": "tr_shed_plow", "5": "tr_kiln_fang", "6": "tr_nest_hatchery", "7": "tr_gate_totem",
+    "8": "tr_paddock_wood", "9": "tr_pen_round", "10": "tr_mill_bonesaw", "11": "tr_cart_dino",
+    "12": "tr_forge_canopy", "13": "tr_kiln_lava", "14": "tr_kiln_stone", "15": "tr_rack_drying",
+    "16": "tr_ramp_log", "17": "tr_tent_spikedome", "18": "tr_pen_rock", "19": "tr_crane_well",
+    "20": "tr_pump_dino", "21": "tr_vat_mash", "22": "tr_tower_water", "23": "tr_wheel_grind",
+    "24": "tr_totem_crystal", "25": "tr_pit_tar", "26": "tr_hut_fishsmoke", "27": "tr_hut_mud",
+    "28": "tr_forge_hammer", "29": "tr_gate_spikewall", "30": "tr_gate_sluice", "31": "tr_tower_drum"
+  },
+  "logi": {
+    "0": "belt_straight", "1": "belt_fast", "2": "rail_track", "3": "belt_curve",
+    "4": "belt_curve_fast", "5": "belt_tee", "6": "belt_stop", "7": "belt_roller",
+    "8": "belt_cross", "9": "loader_fast", "10": "loader", "11": "tunnel_in",
+    "12": "tunnel_fast", "13": "pipe_straight", "14": "pipe_elbow", "15": "pipe_tee",
+    "16": "pipe_cross", "17": "pump_motor", "18": "valve_wheel", "19": "tank_small",
+    "20": "tank_horizontal", "21": "tank_sphere", "22": "drone_quad", "23": "drone_hex",
+    "24": "drone_wing", "25": "drone_lift", "26": "pad_drone", "27": "pad_station",
+    "28": "depot_gate", "29": "relay_dome", "30": "tower_charge", "31": "hub_round",
+    "32": "arm_small", "33": "arm_long", "34": "arm_tall", "35": "arm_twin",
+    "36": "arm_gem", "37": "arm_box", "38": "arm_dualclaw", "39": "crate_glow",
+    "40": "chest_blue", "41": "crate_ore", "42": "crate_x", "43": "crate_arrow",
+    "44": "ramp_conveyor", "45": "hopper_blue", "46": "crate_gear", "47": "conveyor_stack"
+  },
+  "power": {
+    "0": "hand_crank", "1": "flywheel_dynamo", "2": "wind_turbine", "3": "hydro_wheel",
+    "4": "steam_boiler", "5": "steam_engine", "6": "coal_burner", "7": "oil_generator",
+    "8": "bio_reactor", "9": "geothermal_vent", "10": "solar_panel", "11": "battery_bank",
+    "12": "gas_turbine", "13": "flare_stack", "14": "nuclear_plant", "15": "fusion_vessel",
+    "16": "heat_pump", "17": "turbine_hall", "18": "rad_canister", "19": "arc_reactor",
+    "20": "plasma_torus", "21": "tesla_conduit", "22": "cryo_cell", "23": "bio_cell",
+    "24": "vortex_generator", "25": "battery_stack", "26": "algae_vat", "27": "crystal_resonator",
+    "28": "fuse_box", "29": "power_cube", "30": "core_red"
+  },
+  "dino_cyber": {
+    "0": "cy_raptor", "1": "cy_spino", "2": "cy_trice", "3": "cy_ptera",
+    "4": "cy_stego", "5": "cy_brachio", "6": "cy_raptor_purple", "7": "cy_trex",
+    "8": "cy_spino_sail", "9": "cy_anky_mace", "10": "cy_galli", "11": "cy_trice_rhino",
+    "12": "cy_raptor_gatling", "13": "cy_para_jets", "14": "cy_anky_cannon", "15": "cy_tanystro",
+    "16": "cy_trice_heavy", "17": "cy_ptera_war", "18": "cy_raptor_blue", "19": "cy_trex_red",
+    "20": "cy_stego_crystal", "21": "cy_raptor_orange", "22": "cy_trice_missile", "23": "cy_galli_pack",
+    "24": "cy_anky_wreck", "25": "cy_spino_saw", "26": "cy_anky_drill", "27": "cy_brachio_radar",
+    "28": "SPLIT2:cy_trice_hauler,cy_ptera_rotor", "29": "cy_spino_red", "30": "cy_brachio_tank"
+  },
+  "dino_wild": {
+    "0": "wd_dryo", "1": "wd_raptor_green", "2": "wd_spino", "3": "wd_trice",
+    "4": "wd_raptor_purple", "5": "wd_anky", "6": "wd_stego", "7": "wd_brachio",
+    "8": "wd_para", "9": "wd_smilodon", "10": "wd_ptera", "11": "wd_raptor_crest",
+    "12": "wd_trex", "13": "wd_trice_purple", "14": "wd_dimetro", "15": "wd_raptor_teal",
+    "16": "wd_kentro", "17": "wd_galli", "18": "wd_turtle", "19": "wd_dilo",
+    "20": "wd_sauropelta", "21": "wd_thief_basket", "22": "wd_trice_war", "23": "wd_ptera_red",
+    "24": "wd_raptor_blue", "25": "wd_pachy_pink", "26": "wd_anky_grey", "27": "wd_para_yellow",
+    "28": "wd_trice_brown", "29": "wd_tany", "30": "wd_scelido", "31": "wd_toad_armored"
+  },
+  "robots_a": {
+    "0": "junk-a0", "1": "junk-a1", "2": "junk-a2", "3": "junk-a3", "4": "junk-a4",
+    "5": "junk-a5", "6": "junk-a6", "7": "junk-a7", "8": "junk-a8", "9": "junk-a9",
+    "10": "junk-a10", "11": "junk-a11", "12": "junk-a12", "13": "junk-a13", "14": "junk-a14",
+    "15": "junk-a15", "16": "junk-a16", "17": "junk-a17", "18": "junk-a18", "19": "junk-a19",
+    "20": "junk-a20", "21": "junk-a21", "22": "junk-a22", "23": "junk-a23", "24": "junk-a24",
+    "25": "junk-a25", "26": "junk-a26", "27": "junk-a27", "28": "junk-a28", "29": "junk-a29",
+    "30": "junk-a30"
+  },
+  "robots_b": {
+    "0": "rb_cannon_walker", "1": "rb_hauler_sixleg", "2": "rb_spider_orb", "3": "rb_mech_shield",
+    "4": "rb_drone_twinrotor", "5": "rb_artillery", "6": "rb_tripod_sentry", "7": "rb_gunship",
+    "8": "rb_crane_bot", "9": "rb_mech_heavy", "10": "rb_drone_fly", "11": "rb_hauler_quad",
+    "12": "rb_drill_spider", "13": "rb_orb_bomber", "14": "rb_mech_brawler", "15": "rb_tank_drill",
+    "16": "rb_dome_spider", "17": "rb_sniper_droid", "18": "rb_crab_bot", "19": "rb_jet",
+    "20": "rb_mech_shieldgen", "21": "rb_cargo_walker", "22": "rb_swarm_micro", "23": "rb_siege_tank",
+    "24": "rb_cannon_tank", "25": "rb_recon_quad", "26": "rb_saw_breaker", "27": "rb_dome_turret",
+    "28": "rb_mech_flame", "29": "rb_crane_tracked", "30": "rb_quad_sentry", "31": "rb_apc"
+  },
+  "itm_a": {
+    "0": "egg_speckled", "1": "egg_spiked", "2": "egg_scaled", "3": "egg_bluespot",
+    "4": "egg_redstripe", "5": "egg_toxic", "6": "egg_mech", "7": "egg_crystal",
+    "8": "flint", "9": "spear_stone", "10": "arrows_flint", "11": "bolas",
+    "12": "cannonball", "13": "acid_glob", "14": "shard_lightning", "15": "rocket_ammo",
+    "16": "wood_bundle", "17": "stone_chunk", "18": "ore_iron", "19": "ore_copper",
+    "20": "coal_chunk", "21": "shard_chrono", "22": "bone_bundle", "23": "hide_roll",
+    "24": "gear_iron", "25": "circuit_basic", "26": "battery_cell", "27": "fuel_can",
+    "28": "bio_canister", "29": "plates_metal", "30": "coil_copper", "31": "medkit_a"
+  },
+  "itm_b": {
+    "0": "ingot_iron", "1": "plate_iron", "2": "rods_iron", "3": "ingot_copper",
+    "4": "plate_copper", "5": "coil_copper_big", "6": "beam_steel", "7": "plates_steel",
+    "8": "ingot_titanium", "9": "plate_titanium", "10": "rods_titanium", "11": "crystal_chrono",
+    "12": "bar_chrono", "13": "core_uranium", "14": "vial_uranium", "15": "block_basalt",
+    "16": "plate_carbon", "17": "bricks_grey", "18": "bricks_light", "19": "brick_clay",
+    "20": "block_sandstone", "21": "bundle_straw", "22": "roll_thatch", "23": "planks_lumber",
+    "24": "beam_wood", "25": "bones_pair", "26": "roll_leather", "27": "amber_resin",
+    "28": "panes_glass", "29": "coil_rubber", "30": "gear_steel", "31": "piston",
+    "32": "circuit_adv", "33": "wires_colored", "34": "grating_mesh", "35": "plate_armor",
+    "36": "roll_carbonfiber", "37": "fitting_pipe", "38": "brick_sulfur", "39": "block_concrete"
+  },
+  "itm_c": {
+    "0": "sack_feed", "1": "bale_hay", "2": "sack_straw", "3": "sack_grain",
+    "4": "basket_berry", "5": "SPLIT3:crate_fruit,crate_fish,crate_meat", "6": "kit_dino",
+    "7": "bundle_herb", "8": "sack_seed", "9": "bag_fertilizer", "10": "sack_bonemeal",
+    "11": "bucket_water", "12": "barrel_water", "13": "drum_oil", "14": "barrel_bio",
+    "15": "barrel_hazard", "16": "barrel_chem", "17": "drum_blue", "18": "can_milk",
+    "19": "jar_honey", "20": "jar_amber", "21": "bundle_leather", "22": "kit_field",
+    "23": "medkit_c", "24": "chest_ice", "25": "canister_cryo", "26": "carton_egg",
+    "27": "pod_incubator", "28": "bin_compost", "29": "crate_ammo", "30": "pallet_cargo",
+    "31": "pouch_seed", "32": "crate_bone", "33": "crate_orestone", "34": "tray_paste",
+    "35": "coil_rope", "36": "ingots_silver", "37": "plates_dark"
+  },
+  "itm_d": {
+    "0": "battery_small", "1": "battery_pack", "2": "capacitor_tank", "3": "sparkgap_coil",
+    "4": "transformer_a", "5": "transformer_tall", "6": "transformer_b", "7": "cabinet_breaker",
+    "8": "panel_fuse", "9": "pole_wood", "10": "pole_transformer", "11": "pylon_lattice",
+    "12": "box_junction", "13": "spool_copper", "14": "cable_heavy", "15": "module_battery",
+    "16": "station_charge", "17": "pad_dronecharge", "18": "lamp_street", "19": "light_flood",
+    "20": "beacon_alarm", "21": "unit_relay", "22": "tank_pressure", "23": "tower_water",
+    "24": "motor_pump", "25": "valve_red", "26": "meter_gauge", "27": "block_junction",
+    "28": "station_fabarm", "29": "bay_mechcharge", "30": "trailer_generator", "31": "unit_solarcharge"
+  },
+  "player": {
+    "0": "ply_front", "1": "ply_back", "2": "ply_side"
+  }
+}

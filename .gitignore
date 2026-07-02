@@ -1,0 +1,18 @@
+# Unreal Engine transient
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.opendb
+*.VC.db
+
+# Art pipeline intermediates — fully regenerable from Content/Sprites via Tools/
+# (prep_sheets.py -> sprite_pipeline.py -> defringe.py -> deshadow.py -> trim_sprites.py)
+SourceArt/
+
+# never publish credentials
+keys/
+
